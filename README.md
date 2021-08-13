@@ -14,7 +14,7 @@
    * [2.1 预备知识]()
 * 3\. 深度学习基础
    * [3.1 线性回归](3-1.LinearRegression.md)
-   * [3.2 线性回归的从零开始实现](chapter03_DL-basics/3.2_linear-regression-scratch.md)
+   * [3.2 线性回归的从零开始实现](3-1.LinearRegression.ipynb)
    * [3.3 线性回归的简洁实现](chapter03_DL-basics/3.3_linear-regression-pytorch.md)
    * [3.4 softmax回归](chapter03_DL-basics/3.4_softmax-regression.md)
    * [3.5 图像分类数据集（Fashion-MNIST）](chapter03_DL-basics/3.5_fashion-mnist.md)
